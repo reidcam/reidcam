@@ -1,7 +1,5 @@
 # 👋**Hi there, my name is Cameron Reid**
 
-![Profile Banner](images/CR_no_bg_blue.png)
-
 ### **Engines**
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
